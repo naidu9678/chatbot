@@ -1,0 +1,26 @@
+# Exclude virtual environment directories
+myownenv/
+env/
+.myownenv/
+
+#ignore .env file also
+.env
+
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Git-related files
+.git/
+
+
+# Streamlit temporary files
+.streamlit/
+
+# Logs
+*.log
