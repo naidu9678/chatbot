@@ -1,2 +1,2 @@
 # chatbot
-Repo AI Chatbot using Gemini
+Repo AI Chatbot using Gemini LLM
